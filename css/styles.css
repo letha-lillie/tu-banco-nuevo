@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: #F0F8FF;
+  /* background-color: #6495ED; */
+  margin: 25px;
+  text-align: center;
+  padding-bottom: 60px;
+
+}
+ /* #transactions {
+   display: none;
+ } */
+h2 {
+  font-style: italic;
+}
+#transactions {
+  display: none;
+}
